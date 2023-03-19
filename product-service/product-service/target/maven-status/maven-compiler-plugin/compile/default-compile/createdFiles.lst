@@ -1,0 +1,4 @@
+com\programming\techie\productservice\ProductServiceApplication.class
+com\programming\techie\productservice\controller\ProductController.class
+com\programming\techie\productservice\model\Product$ProductBuilder.class
+com\programming\techie\productservice\model\Product.class
